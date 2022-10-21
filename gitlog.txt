@@ -1,0 +1,149 @@
+commit 83603759f465dc05ab6c7a884754dd7cf6e7ad02
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Tue Mar 13 22:06:16 2018 -0400
+
+    processArguments function.
+
+commit 2ce4903f2f7a6c3adf42ca9488b1659160e95a94
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Tue Mar 13 16:53:45 2018 -0400
+
+    Updated program to seal memory leaks
+
+commit 0b1c8f0aa009bd629f9b0f6e9ab891c44674a1a0
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Mar 12 20:33:00 2018 -0400
+
+    Final version!
+
+commit 2282a0222700303ab5bbc4d79d14430bb03051f9
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Mar 12 20:15:00 2018 -0400
+
+    Added functions testing expected input.
+
+commit bd8cbc82a8bb204a826b424cd3a1aaab04e71764
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Mar 12 17:37:30 2018 -0400
+
+    Added checking for correct input values for crop.
+
+commit 69abb1fdf233176dc756d7bcfb20d3290e9a1d38
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Mar 12 17:11:34 2018 -0400
+
+    Implemented crop functionality.
+
+commit c600a1d5d4eb30dd6ad94de13f2387f8103aed93
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Mar 10 20:00:57 2018 -0500
+
+    Implemented blackout functionality.
+
+commit 6ddda53ff315dedc4b62cf8dba10607f513833bf
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Mar 10 19:48:16 2018 -0500
+
+    Implemented contrast functionality.
+
+commit cf30862a8c067bac248ac8498850100a3ef8cdc5
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Mar 10 19:26:59 2018 -0500
+
+    Swap implemented.
+
+commit fba22cf98485143c44241acfd0024dd798e2e933
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Mar 10 16:28:34 2018 -0500
+
+    Made progress in commandUtil, checking for valid filenames and number of arguments for functions and whatnot.
+
+commit f6aea56eafa20496ef7f9378cd1e2f1fbac73ee3
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Mar 10 15:00:24 2018 -0500
+
+    Resolved ppm input problem
+
+commit bac5c555e6c1e253dc311dfa1a2303f6694e91c2
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Tue Feb 27 23:24:27 2018 -0500
+
+    Final version.
+
+commit 132cac00f15ab37f78c830ed687205386c6d3369
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Tue Feb 27 02:55:45 2018 -0500
+
+    Simplified main. Now, go to dnasearch.c and change way function reports offsets.
+
+commit 3bc23088dd089de3cbfeb5bc9f33080dbe893adf
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sun Feb 25 15:31:15 2018 -0500
+
+    Created more files, beginning process of splitting functions up in to separate files, and making the program Makefile compatible. Also now receptive to user input.
+
+commit 19b5955aa6c93f7266be3bf294d1ab73589bc096
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Feb 24 17:09:55 2018 -0500
+
+    Testing file validity working even smoother now, and doubles as the function which loads all valid characters into a single array for further inspection.
+
+commit 2fde28def6ee947cbd2745fcc95024ec11dcafba
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sat Feb 24 16:38:11 2018 -0500
+
+    Testing file validity working smoothly.
+
+commit 14703724166ef1229968183f53563270512d842b
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Fri Feb 23 19:19:29 2018 -0500
+
+    Set up c file, began working on taking command-line argument as filename.
+
+commit a8699637d823bb850b462a7733cd6edd1dded56a
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Feb 12 20:45:25 2018 -0500
+
+    Polished program, added comments to explain variables and program flow. Completed.
+
+commit d5f2c7abcdd050c89b8651e88199d19f34e2ca08
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Feb 12 20:23:27 2018 -0500
+
+    Updated program to work with doubles, since it previously used integers.
+
+commit 1ec4e1feb6fefbd376f6267d429ab42c81049c26
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Feb 12 19:58:32 2018 -0500
+
+    Updated program to work with doubles, since it previously used integers.
+
+commit feff1aedac524df11bba8982e5bed117917185bc
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Mon Feb 12 19:41:21 2018 -0500
+
+    Been a while since last push, went through several design iterations but now seems to be working.
+
+commit e4bce4ee3b3be02ca094dec43cb4d9c816e2120e
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sun Feb 11 18:27:22 2018 -0500
+
+    Updated user input code.
+
+commit 045965846d16cd1b920ef89aecf57f915599cd4b
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sun Feb 11 17:25:25 2018 -0500
+
+    Program takes in user-inputted string. Still needs to parse through it.
+
+commit 197dd98e96c749c151dd2c9543942fc23b7ed4c4
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sun Feb 4 17:10:58 2018 -0500
+
+    All three medals working as intended.
+
+commit dd09cc7f7659eefd80868a6cd191c6a6b5757644
+Author: Stefano Tusa <stusa2@jhu.edu>
+Date:   Sun Feb 4 22:03:18 2018 +0000
+
+    README created online with Bitbucket
