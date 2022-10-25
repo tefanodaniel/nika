@@ -1,7 +1,3 @@
-// Stefano Tusa - stusa2@jhu.edu - CS220 Intermediate Programming
-
-Midterm project.
-
 AVAILABLE FUNCTIONS
 Below is a list of all the editing functions available in Nika:
 
@@ -34,5 +30,8 @@ between (30,30) and (75,100) (and save the resulting image as "cropped-cat.ppm")
 At the very top of this README is a *comprehensive* list of all editing functions available in Nika.
 
 Happy editing!
+
+// Stefano Tusa - stusa2@jhu.edu - CS220 Intermediate Programming
+// Midterm project.
 
 
